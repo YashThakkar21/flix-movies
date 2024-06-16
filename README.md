@@ -1,7 +1,5 @@
 # ios101-lab5-flix1
 
-## iOS 101: Lab - Unit 5 - Flix Pt 1 (Feed)
-
 ![16_app_required_features](https://user-images.githubusercontent.com/11927517/223374834-93edad78-9273-45d1-9d42-50ece5bb5b51.gif)
 
 ### Required Features
